@@ -1,13 +1,11 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+# CS3SY26_ProjectProposal by Carl Gabriel Cusi, Zander Gelo Ladines, and Charlie Sean Somera from 9-Beryllium 2030 of PSHS
 
 
 ## Project Proposal Template:
-cvbbbc
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+### Section			   	      : 9-Beryllium
+### Group Members			    : Carl Gabriel Cusi, Zander Gelo Ladines, Charlie Sean Somera
+### Date (Proposal Date)  : Nov 13, 2026
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
